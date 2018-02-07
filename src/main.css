@@ -26,6 +26,16 @@ h1, h2, h3, p {
   outline: none;
 }
 
+.back-button {
+  float: right;
+  font-size: 20px;
+  padding: 10px 25px;
+  font-family: 'Crimson Text', serif;
+  border: none;
+  background-color: #143A56;
+  color: white;
+}
+
 .box {
   margin: 20px;
   width: calc(100vw - 140px);
